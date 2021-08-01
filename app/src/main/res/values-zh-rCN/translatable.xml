@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Vanilla Music</string>
+  <string name="app_name">Vanilla DoSt</string>
   <string name="ok">是</string>
   <string name="cancel">取消</string>
   <!--Playback Activity (main screen)-->
